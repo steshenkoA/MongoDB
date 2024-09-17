@@ -1,0 +1,154 @@
+[{
+  "_id": 4719,
+  "carBrandId": 2,
+  "carModelId": 6,
+  "userId": 323,
+  "year": 2021,
+  "licensePlate": "999999",
+  "mileage": 999999,
+  "initialMileage": 999999,
+  "updatedMileageAt": {
+    "$date": "2021-12-12T16:29:56.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-12T16:29:56.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-12T16:29:56.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-12-12T16:29:56.000Z"
+  }
+},
+{
+  "_id": 4720,
+  "carBrandId": 5,
+  "carModelId": 19,
+  "userId": 323,
+  "year": 2021,
+  "licensePlate": "77777",
+  "mileage": 77777,
+  "initialMileage": 77777,
+  "updatedMileageAt": {
+    "$date": "2021-12-12T16:30:02.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-12T16:30:02.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-12T16:30:02.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-12-12T16:30:02.000Z"
+  }
+},
+{
+  "_id": 4723,
+  "carBrandId": 4,
+  "carModelId": 17,
+  "userId": 323,
+  "year": 2021,
+  "licensePlate": "55",
+  "mileage": 55,
+  "initialMileage": 55,
+  "updatedMileageAt": {
+    "$date": "2021-12-12T16:30:27.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-12T16:30:27.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-12T16:30:27.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-12-12T16:30:27.000Z"
+  }
+},
+{
+  "_id": 577,
+  "carBrandId": 1,
+  "carModelId": 1,
+  "userId": 342,
+  "year": 2021,
+  "licensePlate": "2",
+  "mileage": 1,
+  "initialMileage": 1,
+  "updatedMileageAt": {
+    "$date": "2021-09-09T21:09:38.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-09-09T21:08:35.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-09T21:09:38.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": 578,
+  "carBrandId": 1,
+  "carModelId": 1,
+  "userId": 343,
+  "year": 2021,
+  "licensePlate": "3",
+  "mileage": 1,
+  "initialMileage": 1,
+  "updatedMileageAt": {
+    "$date": "2021-09-10T08:51:27.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-09-10T08:51:21.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T08:51:27.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-09-10T08:51:21.000Z"
+  }
+},
+{
+  "_id": 1442,
+  "carBrandId": 1,
+  "carModelId": 1,
+  "userId": 320,
+  "year": 2021,
+  "licensePlate": "64525",
+  "mileage": 46,
+  "initialMileage": 46,
+  "updatedMileageAt": {
+    "$date": "2021-10-26T18:01:21.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-10-26T14:44:06.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T18:01:21.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-10-26T14:44:06.000Z"
+  }
+},
+{
+  "_id": 1450,
+  "carBrandId": 5,
+  "carModelId": 22,
+  "userId": 320,
+  "year": 2021,
+  "licensePlate": "257494",
+  "mileage": 257494,
+  "initialMileage": 257494,
+  "updatedMileageAt": {
+    "$date": "2021-10-26T18:19:23.000Z"
+  },
+  "createdAt": {
+    "$date": "2021-10-26T18:19:23.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T18:19:23.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-10-26T18:19:23.000Z"
+  }
+}]

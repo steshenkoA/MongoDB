@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "title": "Audi",
+  "logoFilename": "audi.png",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 2,
+  "title": "BMW",
+  "logoFilename": "bmw.png",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 3,
+  "title": "Ford",
+  "logoFilename": "ford.png",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 4,
+  "title": "Porsche",
+  "logoFilename": "porsche.png",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 5,
+  "title": "Fiat",
+  "logoFilename": "fiat.png",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+}]

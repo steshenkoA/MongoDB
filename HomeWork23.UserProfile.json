@@ -1,0 +1,60 @@
+[{
+  "_id": 321,
+  "userId": 323,
+  "firstName": "Evgeniia",
+  "photoFilename": "default-user.png",
+  "lastName": "Maiun",
+  "dateBirth": null,
+  "country": null,
+  "createdAt": {
+    "$date": "2021-09-04T23:56:12.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-04T23:56:12.000Z"
+  }
+},
+{
+  "_id": 340,
+  "userId": 342,
+  "firstName": "Alex",
+  "photoFilename": "default-user.png",
+  "lastName": "Alex",
+  "dateBirth": null,
+  "country": null,
+  "createdAt": {
+    "$date": "2021-09-09T21:01:56.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-09T21:01:56.000Z"
+  }
+},
+{
+  "_id": 341,
+  "userId": 343,
+  "firstName": "Alex",
+  "photoFilename": "default-user.png",
+  "lastName": "Alex",
+  "dateBirth": null,
+  "country": null,
+  "createdAt": {
+    "$date": "2021-09-10T08:51:16.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T08:51:16.000Z"
+  }
+},
+{
+  "_id": 318,
+  "userId": 320,
+  "firstName": "Yevheniia",
+  "photoFilename": "default-user.png",
+  "lastName": "Kolesnyk",
+  "dateBirth": null,
+  "country": null,
+  "createdAt": {
+    "$date": "2021-09-04T17:37:22.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-04T17:37:22.000Z"
+  }
+}]

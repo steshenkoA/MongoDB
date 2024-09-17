@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "carBrandId": 1,
+  "title": "TT",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 6,
+  "carBrandId": 2,
+  "title": "Golf",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 17,
+  "carBrandId": 4,
+  "title": "Cayenne",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 19,
+  "carBrandId": 5,
+  "title": "Palio",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+},
+{
+  "_id": 22,
+  "carBrandId": 5,
+  "title": "Punto",
+  "createdAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:13:53.000Z"
+  }
+}]

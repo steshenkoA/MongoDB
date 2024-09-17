@@ -1,0 +1,48 @@
+[{
+  "_id": 323,
+  "email": "zhenya303@gmail.com",
+  "password": "$2a$12$.V4.KU61AwK.q6.FS45q6u9lSIiSoiGkrQt52OMn9pn7HllGT5OtK",
+  "createdAt": {
+    "$date": "2021-09-04T23:56:12.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-04T22:05:24.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": 320,
+  "email": "evgeniakolesnik11@gmail.com",
+  "password": "$2a$12$X8QQz6y1h9H7wGsnXwNHTeTX6uflYo.E8XgYXi5PDxuGPi4RuI5rW",
+  "createdAt": {
+    "$date": "2021-09-04T17:37:21.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-16T20:03:11.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": 342,
+  "email": "qwerty@gmail.com",
+  "password": "$2a$12$81XJSiTGG6x2IXHLvu6cVenDWU6rjq6OE7eUqpM7BTU5SceheRab.",
+  "createdAt": {
+    "$date": "2021-09-09T21:01:55.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-09T21:01:55.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": 343,
+  "email": "qwertyui1@gmail.com",
+  "password": "$2a$12$rKCnu1ZWKi0CIrZgePTDeOimOE0iC8XlfGUdf4FgNRkRP7F6hPqga",
+  "createdAt": {
+    "$date": "2021-09-10T08:51:15.000Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T08:51:15.000Z"
+  },
+  "role": "user"
+}]
